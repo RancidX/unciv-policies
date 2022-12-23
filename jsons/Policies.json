@@ -171,7 +171,7 @@
             {
                 "name": "Military Tradition",
                 "uniques": [
-                    "[+200]% XP gained from combat <for [Military] units>"
+                    "[+400]% XP gained from combat <for [Military] units>"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
